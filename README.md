@@ -1,4 +1,4 @@
-# Stock-Investment-Optimization-with-C-
+# Stock-Investment-Optimization-with-C++
 
 This program uses the minimum variances theory to calculate a vector of ratios for stock investment.
 
